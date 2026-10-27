@@ -22,15 +22,15 @@ In this guided lab, we will demonstrate how to enable Remote Desktop access for 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-Enable Remote Desktop Connection for Domain users on the Client VM
-Provision multiple Domain users
-Test login as a Domain user
-Configure account lockout in Group Policy Management
-Update the Account Lockout Policy on the Client VM
-Test Account Lockout Policy
-Test the Password reset functionality
-Test Disabling and Re-enabling an account
-Observe the logs
+- Enable Remote Desktop Connection for Domain users on the Client VM
+- Provision multiple Domain users
+- Test login as a Domain user
+- Configure account lockout in Group Policy Management
+- Update the Account Lockout Policy on the Client VM
+- Test Account Lockout Policy
+- Test the Password reset functionality
+- Test Disabling and Re-enabling an account
+- Observe the logs
 
 <h2>Project Walkthrough</h2>
 
