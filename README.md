@@ -262,7 +262,11 @@ Step 9 aims to examine the security logs on the Client VM to observe records of 
 
 <h2>Active Directory - User Provisioning, Group Policy, and Account Management completed!</h2>
 
-<b>We've successfully configured Remote Desktop for non-administrative users, automated user creation with PowerShell, and managed group policies. Additionally, we covered account lockouts, password reset and log monitoring to simulate a real-life IT environment. This marks the end of the Active Directory Lab series! Remember to stop the VMs in the Azure Portal when not in use to manage costs effectively.</b>
+<b>We've successfully configured Remote Desktop for non-administrative users, automated user creation with PowerShell, and managed group policies. Additionally, we covered account lockouts, password reset and log monitoring to simulate a real-life IT environment. This marks the end of the Active Directory Lab series! 
+
+DO NOT FORGET TO CLEAN UP YOUR AZURE ENVIRONMENT!!!, not deleting the resources will result in unnecessary charges to your account when you are not logged on.
+
+Close your Remote Desktop connection, delete the Resource Group(s) created at the beginning of this tutorial, and verify Resource Group deletion.</b>
 <br />
 <br />
 </p>
