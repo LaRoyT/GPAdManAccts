@@ -1,9 +1,8 @@
-Group Policy and Managing Accounts Wtih Active DIrectory
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Group Policy and Managing Accounts Wtih Active DIrectory</h1>
+<h1>Group Policy and Managing Accounts Wtih Active Directory</h1>
 In this guided lab, we will demonstrate how to enable Remote Desktop access for non-administrative users, automate user creation with PowerShell, and manage group policies. Additionally, we will cover account lockouts, password reset, and log monitoring, to simulate a real-life IT environment.<br />
 
 <br />
