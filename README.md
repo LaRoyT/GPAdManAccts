@@ -1,4 +1,3 @@
-# GPAdManAccts
 Group Policy and Managing Accounts Wtih Active DIrectory
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
@@ -24,15 +23,15 @@ In this guided lab, we will demonstrate how to enable Remote Desktop access for 
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1: Enable Remote Desktop Connection for Domain users on the Client VM
-- Step 2: Provision multiple Domain users
-- Step 3: Test login as a Domain user
-- Step 4: Configure account lockout in Group Policy Management
-- Step 5: Update the Account Lockout Policy on the Client VM
-- Step 6: Test Account Lockout Policy
-- Step 7: Test the Password reset functionality
-- Step 8: Test Disabling and Re-enabling an account
-- Step 9: Observe the logs
+Enable Remote Desktop Connection for Domain users on the Client VM
+Provision multiple Domain users
+Test login as a Domain user
+Configure account lockout in Group Policy Management
+Update the Account Lockout Policy on the Client VM
+Test Account Lockout Policy
+Test the Password reset functionality
+Test Disabling and Re-enabling an account
+Observe the logs
 
 <h2>Project Walkthrough</h2>
 
